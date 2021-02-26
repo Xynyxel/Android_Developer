@@ -1,6 +1,6 @@
 package Modul_1_Basic;
 
-public class modul_1_basic_string {
+public class modul1_basic_string {
     public static void main(String[] args) {
 
         // Char to String
