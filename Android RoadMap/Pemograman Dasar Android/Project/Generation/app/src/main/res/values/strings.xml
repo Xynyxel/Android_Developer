@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Generation</string>
+    <string name="output">Output</string>
+    <string name="tahun_lahir">Tahun Lahir</string>
+</resources>
