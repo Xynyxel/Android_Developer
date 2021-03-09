@@ -29,7 +29,7 @@ public class modul1_basic_OperasiEquality {
         result = value < anotherValue;
         System.out.println("Hasil 'value < anotherValue' adalah " + result);
         System.out.println();
-        
+
         System.out.println("Sama atau kurang dari dengan..");
         result = value <= anotherValue;
         System.out.println("Hasil 'result <= anotherValue' adalah " + result);
