@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Github</string>
+
+    <string name="image">Image</string>
+
+    <string name="username">UserName</string>
+    <string name="name">Name</string>
+
+    <string name="reposiotry">Reposiotry </string>
+    <string name="followers">Followers </string>
+    <string name="following">Following </string>
+    <string name="company">Company </string>
+    <string name="location">Location </string>
+
+    <string name="content_string">-</string>
+    <string name="content_number">0</string>
+
+    <string name="icon_repository">Icon Repository</string>
+    <string name="icon_following">Icon Following</string>
+    <string name="icon_followers">Icon followers</string>
+    <string name="icon_company">Icon Company</string>
+    <string name="icon_location">Icon Location</string>
+    <string name="notfound">Not Found</string>
+
+    <string name="search_hint">Input Username</string>
+</resources>

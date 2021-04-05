@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github</string>
+
+    <string name="image">Gambar</string>
+
+    <string name="username">Nama pengguna</string>
+    <string name="name">Nama</string>
+
+    <string name="reposiotry">"Repositori "</string>
+    <string name="followers">Pengikut </string>
+    <string name="following">Mengikuti </string>
+    <string name="company">Perusahaan </string>
+    <string name="location">Lokasi </string>
+
+    <string name="content_string">-</string>
+    <string name="content_number">0</string>
+
+    <string name="icon_repository">Ikon Repositori</string>
+    <string name="icon_following">Ikon Mengikuti</string>
+    <string name="icon_followers">Ikon Pengikut</string>
+    <string name="icon_company">Ikon Perusahaan</string>
+    <string name="icon_location">Ikon Lokasi</string>
+    <string name="notfound">Tidak Ditemukan</string>
+
+    <string name="search_hint">Masukkan Nama Pengguna</string>
+</resources>
