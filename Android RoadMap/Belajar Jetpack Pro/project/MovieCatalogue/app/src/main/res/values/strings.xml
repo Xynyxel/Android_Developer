@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movie">Movies</string>
+    <string name="tvshow">Tv Show</string>
+    <string name="poster">Poster</string>
+    <string name="back_button">Back Button</string>
+    <string name="userScore">30%</string>
+    <string name="user_nscore">User\nScore</string>
+    <string name="duration_text">10m</string>
+    <string name="title_text">Title</string>
+    <string name="date_text">Date</string>
+    <string name="genre_text">Genre</string>
+    <string name="overview_text">Overview</string>
+    <string name="overview">Overview\n\n%s</string>
+    <string name="user_score_percent">%s%%</string>
+
+</resources>

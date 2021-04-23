@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colors App -->
+    <color name="blue_200">#0624F9</color>
+    <color name="blue_500">#0624F9</color>
+    <color name="blue_700">#0624F9</color>
+
+    <color name="yellow_200">#F9DB06</color>
+    <color name="placeholder">#6FB6B6B6</color>
+</resources>
