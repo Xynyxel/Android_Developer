@@ -1,0 +1,32 @@
+1.c
+2.a
+3.c
+4.b
+5.a
+6.b
+7.b
+8.c
+9.c
+10.d
+11.b
+12.a
+13.c
+14.b
+15.b
+16.d
+17.b
+18.d
+19.b
+20.d
+
+https://www.zippia.com/advice/awesome-elevator-pitch/
+
+Example
+“Hello, I’m John Smith, nice to meet you. I’m a writer with five years of professional experience in the online content writing industry. My core skill sets are online content writing and social media engineering. I’m endlessly curious and all my colleagues and coworkers look to me for answers – they know that either I know it or I’ll find out. As I’ve always been exceptionally passionate about social issues, I’m looking to write for publications/websites focused on climate change so that I can create content and campaigns urging others to take action and ensure sustainable cacao production for future generations.”
+
+My Elevator pitch
+Hello, my name is Tony Wijaya. Iam an informatic Engineering Student in Politeknik Caltex Riau. I have so much experience making a web, android, and desktop application. My interest are Android and Artificial Inteligence Field. My Core programming language are kotlin, java, c# and python. I like to be a generalist person because i like to learn a new thing. I looking to get more experience in making a software and doing a data science field because data been so large in entire time rigth now.
+
+
+200 words
+Hello, my name is Tony Wijaya. My interests are Android and the Artificial Intelligence Field. My Core programming languages are kotlin and python. In my spare time, I like to learn new things.

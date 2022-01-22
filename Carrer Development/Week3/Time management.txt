@@ -1,0 +1,49 @@
+create a time management quadrant for all of her tasks :
+1. Complete documentation for the recently launched feature she developed 1-week ago
+2. Complete the code writing that is due tomorrow evening; her estimated progress is 40% as of now
+3. Browse and buy a birthday present for her mom, whose birthday is next week
+4. Grocery shopping to buy ingredients to prepare a feast for her mother’s birthday held next weekend
+5. Attend her primary school virtual reunion tonight
+6. Visit the doctor as she feels mild pain on her back after long hours of work recently
+7. Prepare progress reports for the scrum meeting this evening
+8. Catch up with the last 3 episodes of her favorite TV series
+
+
+Intan just Accepted as a software engineer developer at a logistics company. I help her to create a time management quadrant for her task. The four Quadrant i break into : 
+
+Do it now
+2. Complete the code writing that is due tomorrow evening; her estimated progress is 40% as of now
+7. Prepare progress reports for the scrum meeting this evening
+(Explanation)
+I think the first thing she needs to do working a deadline making a progress reports because she just accepted in a new company.
+
+Schedule
+1. Complete documentation for the recently launched feature she developed 1-week ago
+6. Visit the doctor as she feels mild pain on her back after long hours of work recently
+(Explanation)
+I think she needs to have a schedule to complete her work and visit a doctors when she have a free time.
+
+Delegate
+3. Browse and buy a birthday present for her mom, whose birthday is next week
+4. Grocery shopping to buy ingredients to prepare a feast for her mother’s birthday held next weekend
+(Explanation)
+I think she can delegate to another to help him prepare for her mom birthday instead doing by herself.
+
+Drop
+5. Attend her primary school virtual reunion tonight
+8. Catch up with the last 3 episodes of her favorite TV series
+(Explanation)
+I think she cannot attend a virtual reunion and watch her favorite tv series because she has some deadline todo.
+
+
+
+
+
+
+
+
+
+
+
+
+

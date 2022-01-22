@@ -1,0 +1,1 @@
+I am a student in Informatic Engineering at Politeknik Caltex Riau.In the second semester i was responsible as a lecturer instructor in bunch of workshops with java programming language.I developed a stationary store finance program using netbeans GUI and OOP concepts.
